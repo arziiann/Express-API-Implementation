@@ -1,5 +1,3 @@
-
-```markdown
 # Express API
 
 This is a simple Express-based API that allows you to manage users with basic operations like `GET`, `POST`, `PUT`, `PATCH`, and `DELETE`.
