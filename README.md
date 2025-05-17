@@ -24,7 +24,7 @@ To get started with this project, follow these steps:
 2. Navigate to the project directory:
 
     ```bash
-    cd your-repository-name
+    cd Express-API-Implementation
     ```
 
 3. Install the dependencies:
